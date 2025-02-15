@@ -1,0 +1,19 @@
+# Credentials and sensitive data
+credentials.js
+.env
+
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
