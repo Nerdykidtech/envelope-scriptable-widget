@@ -12,7 +12,7 @@ A minimalist iOS widget built with Scriptable to display your Envelope Money bud
 
 ### Widget in Action
 Here's how it looks on the home screen:
-<img src="screenshots/homescreen.jpeg" width="300" alt="Widget on Home Screen">
+<img src="screenshots/homescreen.png" width="300" alt="Widget on Home Screen">
 
 ## Features ✨
 
